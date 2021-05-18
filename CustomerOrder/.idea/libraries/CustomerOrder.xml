@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CustomerOrder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CustomerOrder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
